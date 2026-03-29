@@ -17,11 +17,11 @@ This project implements a **basic High Availability (HA) prototype** for pgagroa
 
 📸 Example Output:
 
-```
+
 ## 📸 Query Routing Output
 
 ![Routing Output](screenshots/routing_output.png)
-```
+
 
 ---
 
@@ -34,9 +34,9 @@ This project implements a **basic High Availability (HA) prototype** for pgagroa
 
 📸 Example Output:
 
-```
+
 ![Classification](screenshots/classification.png)
-```
+
 
 ---
 
@@ -52,9 +52,9 @@ This project implements a **basic High Availability (HA) prototype** for pgagroa
 
 📸 Example Output:
 
-```
+
 ![Actual Replication](screenshots/actual.png)
-```
+
 
 ---
 
@@ -70,10 +70,9 @@ This project implements a **basic High Availability (HA) prototype** for pgagroa
 
 ### 🔹 5. Modular Architecture
 
-```
+
 ![Structure](screenshots/folder_structure.png)
 
----
 
 ##  Key Concepts Implemented
 
